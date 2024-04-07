@@ -13,5 +13,6 @@ namespace TaskProject.Domain.Entities
         public string B { get; set; }
         public string C { get; set; }
         public string D { get; set; }
+        public string ImagePath { get; set; }
     }
 }
